@@ -1,10 +1,10 @@
-# table
-Atividade avaliativa do projeto da GrowDev - Starter Full Stack Web Developer
+<h1 align="center">Table</h1>
 
-Projeto criado com o objetivo de fortalecer os conhecimentos em tabelas no HTML e de publicações no Github
+Atividade avaliativa do projeto da GrowDev - <b>Starter Full Stack Web Developer</b>
 
-Neste projeto foi criado uma tabela simples e utilizando conhecimentos de estilo e marcações.
+Projeto criado com o objetivo de fortalecer os conhecimentos em tabelas no HTML e de publicações no Github.
+Neste projeto foi criado uma tabela simples e utilizado conhecimentos de estilo e marcações.
 
-O resultado poe ser visto na figura abaixo:
+O resultado pode ser visto na figura abaixo:
 
-![alt text](https://github.com/Mr-Pacheco/table/blob/images/resultado-final.png)
+![resultado](Images/resultado-final.png)
