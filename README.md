@@ -7,4 +7,11 @@ Neste projeto foi criado uma tabela simples e utilizado conhecimentos de estilo 
 
 O resultado pode ser visto na figura abaixo:
 
-![resultado](Images/resultado-final.png)
+Página 1:
+![resultado](Images/página-1.png)
+
+Página 2:
+![resultado](Images/página-2.png)
+
+Página 3:
+![resultado](Images/página-3.png)
